@@ -2,8 +2,6 @@
 
 Updated deployment below....one i've submitted in the form may not work 😀
 
-https://fitness-dashboard-gn6v-aa2t29cxo-vishnuvardhanjs.vercel.app/
-
 ## Description
 
 Accessing Fit data using Google Fit API with Oatuh 2.0 tokens
@@ -33,8 +31,10 @@ Accessing Fit data using Google Fit API with Oatuh 2.0 tokens
 
 ### Images
 ![Image1](https://cdn.discordapp.com/attachments/1011871235581419560/1102173993580122122/1.png)
-![Image2](https://cdn.discordapp.com/attachments/1011871235581419560/1102173993831776406/2.png)
+
 ![Image3](https://cdn.discordapp.com/attachments/1011871235581419560/1102173994083438642/3.png)
-![Image4](https://cdn.discordapp.com/attachments/1011871235581419560/1102173994372841513/4.png)
+
+![image](https://github.com/Amarnath-Rao/GoogleFit-HealthDash/assets/96937608/7e8ba0d6-f068-4407-8e4c-f8c53008d7f7)
+
 ![Image5](https://cdn.discordapp.com/attachments/1011871235581419560/1102173994653847633/5.png)
 
